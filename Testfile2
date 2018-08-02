@@ -1,2 +1,6 @@
 This is test file2 created in github.
+<<<<<<< HEAD
 change in local
+=======
+changes in github
+>>>>>>> 86d3ad29ff52266145f537a055d1560390cd5f20
